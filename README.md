@@ -99,15 +99,21 @@ Saídas que são `string` devem ser maiúsculas e saídas `float` devem ter **pr
 
 **Entrada:**
 
-`6`
+`20
+1 0 0
+8 0 18
+3 10 18 
+P`
 
 **Saída:**
 
-`FIM DA ELEICAO
-- PRESIDENTE ELEITO: Edsger Dijkstra (Partido do Melhor Caminho (PMC)), 3, 100% 
-- PRIMEIRO MINISTRO ELEITO: Ada Lovelace (Mulheres Programadoras Unidas (MPU)), 3, 100%
-- COMPARECIMENTO: 60%
-- NULOS E BRANCOS: 0, 0`
+``` 
+FIM DA ELEICAO
+- PRESIDENTE ELEITO: SEM DECISAO 
+- PRIMEIRO MINISTRO ELEITO: Ada Lovelace (Mulheres Programadoras Unidas (MPU)), 2, 66.67%
+- COMPARECIMENTO: 15.00%
+- NULOS E BRANCOS: 2, 1 
+```
 
 ___
 
