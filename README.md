@@ -1,4 +1,5 @@
 [![Abrir no GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://vfsmota-programacaoufes-tep-ea-01-eleicao-gx59xxpq9jc5g.github.dev/)
+
 **Descrição**
 
 Faça um programa que simule uma urna eletrônica rudimentar que deve ler votos dos eleitores e no final retornar o resultado da eleição e alguns dados estatísticos. Para esse exercício é **obrigatório o uso de structs**.
